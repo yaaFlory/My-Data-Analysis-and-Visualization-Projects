@@ -23,6 +23,9 @@ The Dataset used was downloaded from Kaggle as a ZIP file and extracted into a C
 ## ANALYSIS AND VISUALISATION
 A documentation of my Data Analysis Journey
 https://drive.google.com/file/d/1NprOXZOlCyw48-bFiz6cEqP6qiPv-rKk/view?usp=drivesdk
+![Screenshot (143)](https://github.com/user-attachments/assets/1d269a94-8945-4526-873b-cba5cdc63481)
+![Screenshot (136)](https://github.com/user-attachments/assets/fce5cf01-1d1d-4c2a-97e5-c2bd0d4fade2)
+
 
 
 ## RECOMMENDATIONS OR INSIGHTS
@@ -50,7 +53,7 @@ https://drive.google.com/file/d/1NprOXZOlCyw48-bFiz6cEqP6qiPv-rKk/view?usp=drive
 
 - Insight: VR improves knowledge retention by 15% compared to traditional methods.
 - Action: Establish a continuous evaluation framework to monitor VR effectiveness and identify areas for improvement.
--
+
 - 6: Enhance Teacher Training for VR Integration
 
 - Insight: Educator adoption rates vary by region.
